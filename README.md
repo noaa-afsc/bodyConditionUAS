@@ -1,2 +1,2 @@
 # bodyConditionUAS
-Data and code supporting the manuscript "Monitoring body condition of seals in Alaska using small UAS" by Cameron et al.
+Data and code supporting the manuscript "Monitoring the body condition of arctic seals on pack ice using small uncrewed aerial systems" by Cameron et al.
